@@ -2,12 +2,13 @@
 myCyberTools
 # OSINT Recon Tool
 
-The **OSINT Recon Tool** is a Python-based application that allows you to perform open-source intelligence (OSINT) reconnaissance on a person of interest using the DuckDuckGo search engine. The tool provides a user-friendly GUI built with `tkinter` and includes debugging options for advanced users.
+The **OSINT Recon Tool** is a Python-based application that allows you to perform open-source intelligence (OSINT) reconnaissance on a person of interest using multiple search engines (DuckDuckGo, Google, and Bing). The tool provides a user-friendly GUI built with `tkinter` and includes debugging and save options.
 
 ## Features
-- Search for a person of interest using DuckDuckGo.
+- Search for a person of interest using DuckDuckGo, Google, or Bing.
 - Add optional keywords to refine the search.
 - View search results directly in the application.
+- Save results to a text file.
 - Enable debugging to view additional information (e.g., query, search URL, number of results).
 
 ## Requirements
