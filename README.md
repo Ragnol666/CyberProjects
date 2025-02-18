@@ -17,5 +17,6 @@ The **OSINT Recon Tool** is a Python-based application that allows you to perfor
 ## Installation
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/Ragnol666/CyberProjects/
+   https://github.com/Ragnol666/CyberProjects.git
    cd osint-recon-tool
+   
